@@ -2,6 +2,7 @@ numpy
 Pillow
 keras
 tensorflow
+streamlit
 # flask
 # Werkzeug
 # gunicorn

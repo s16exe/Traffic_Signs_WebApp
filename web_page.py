@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Load the trained model
-model = load_model('./training/TSR.h5')
+model = load_model('./model/TSR.h5')
 
 # Define traffic sign classes
 classes = { 0:'Speed limit (20km/h)',
